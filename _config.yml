@@ -77,6 +77,9 @@ project-list:
         url: https://github.com/Khosbayar/Transcend
 
 
+# do you want to display a recipes section? true or false
+recipes: true
+
 # do you want to display the theme attribution? true or false
 footer: flase
 
