@@ -1,24 +1,24 @@
 # Your name and what you do
-name: Eve Adam
-bio: Software Developer
+name: Jolie Blonde
+bio: the Cajun national anthem
 
-description: Eve Adam's Personal Website
+description: Cajun Experience Guide
 
 # Profile picture
 picture: assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+url: https://hosini.github.io
 
 # do you want to display social media links? true or false
-social-media: true
+social-media: false
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#twitter: mytwitter
+#linkedin: mylinkedin
+#github: mygithub
+#email: myemail@gmail.com
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -41,7 +41,7 @@ width: normal
 about: true
 
 # do you want to display a skills section? true or false
-skills: true
+skills: false
 
 # add your skills here
 skills-list:
@@ -78,7 +78,7 @@ project-list:
 
 
 # do you want to display the theme attribution? true or false
-footer: true
+footer: flase
 
 # Enable animations? true or false
 animation: true
